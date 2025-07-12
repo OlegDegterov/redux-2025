@@ -1,0 +1,17 @@
+# Игнорировать папку node_modules
+node_modules/
+
+# Игнорировать файлы зависимостей (если используете npm или yarn)
+package-lock.json
+
+# Игнорировать файлы окружения
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+
+# Игнорировать настройки IDE
+.idea/
+.vscode/
